@@ -512,6 +512,7 @@
             this.Controls.Add(this.gPhieuDatBao);
             this.Name = "frmChiTietSanPham";
             this.Text = "frmChiTietSanPham";
+            this.Load += new System.EventHandler(this.frmChiTietSanPham_Load);
             this.gChiTietDatBao.ResumeLayout(false);
             this.gChiTietDatBao.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nudThangBD)).EndInit();

@@ -16,5 +16,10 @@ namespace frmMain
         {
             InitializeComponent();
         }
+
+        private void frmChiTietSanPham_Load(object sender, EventArgs e)
+        {
+            //guvfkjcvnmck
+        }
     }
 }
