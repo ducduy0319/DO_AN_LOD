@@ -19,12 +19,12 @@ namespace frmMain
 
         private void frmChiTietSanPham_Load(object sender, EventArgs e)
         {
-            //guvfkjcvnmck
+ 
         }
 
         private void gPhieuDatBao_Enter(object sender, EventArgs e)
         {
-            //0988981845
+          
         }
     }
 }
