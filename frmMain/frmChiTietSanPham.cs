@@ -21,5 +21,10 @@ namespace frmMain
         {
             //guvfkjcvnmck
         }
+
+        private void gPhieuDatBao_Enter(object sender, EventArgs e)
+        {
+            //0988981845
+        }
     }
 }
