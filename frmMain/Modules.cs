@@ -9,7 +9,7 @@ namespace frmMain
 {
     class Modules
     {
-        public static string cnnStr = "";
+        public static string cnnStr = "Data Source=DESKTOP-SR3BE2S\\SQLEXPRESS;Initial Catalog=QL_LKDT_LOD;Integrated Security=True";
         public static SqlConnection cnn = new SqlConnection(cnnStr);
     }
 }
